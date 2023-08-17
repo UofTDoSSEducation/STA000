@@ -1,6 +1,6 @@
 +++
-title = "Contact"
-weight = 3
+title = "Assignments"
+weight = 2
 +++
 
 ```
@@ -14,11 +14,11 @@ weight = 3
 [/lectures/week-1/lecture-1-data.txt](../lectures/week-1/lecture-1-data.txt)
 [/assignments]({{< ref "/assignments" >}})
 [/assignments/homework-1]({{< ref "/assignments/homework-1" >}})
-[/assignments/homework-1/Project-1.pdf](../assignments/homework-1/Project-1.pdf)
+[/assignments/homework-1/Project-1.pdf](./homework-1/Project-1.pdf)
 [/assignments/homework-1/answers]({{< ref "/assignments/homework-1/answers" >}})
-[/assignments/homework-1/answers/answer-1.pdf](.../assignments/homework-1/answers/answer-1.pdf)
-[/material/Markdown-Syntax.pdf](.../material/Markdown-Syntax.pdf)
-![](.../img/logo.png)
+[/assignments/homework-1/answers/answer-1.pdf](./homework-1/answers/answer-1.pdf)
+[/material/Markdown-Syntax.pdf](../material/Markdown-Syntax.pdf)
+![](../img/logo.png)
 ```
 
 | render |
@@ -33,9 +33,9 @@ weight = 3
 | [/lectures/week-1/lecture-1-data.txt](../lectures/week-1/lecture-1-data.txt) |
 | [/assignments]({{< ref "/assignments" >}}) |
 | [/assignments/homework-1]({{< ref "/assignments/homework-1" >}}) |
-| [/assignments/homework-1/Project-1.pdf](../assignments/homework-1/Project-1.pdf) |
+| [/assignments/homework-1/Project-1.pdf](./homework-1/Project-1.pdf) |
 | [/assignments/homework-1/answers]({{< ref "/assignments/homework-1/answers" >}}) |
-| [/assignments/homework-1/answers/answer-1.pdf](../assignments/homework-1/answers/answer-1.pdf) |
+| [/assignments/homework-1/answers/answer-1.pdf](./homework-1/answers/answer-1.pdf) |
 | [/material/Markdown-Syntax.pdf](../material/Markdown-Syntax.pdf) |
 | ![](../img/logo.png) |
 
